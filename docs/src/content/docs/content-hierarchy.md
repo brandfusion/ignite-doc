@@ -22,7 +22,7 @@ The section element describes the content context and will always be rendered in
 | Value | Heading Size | Subheading Size |
 |-|-|-|
 |Extra Small (H6)| H6 | H6 |
-|Small (H5)| H6 | H6 |
+|Small (H5)| H5 | H6 |
 |Default (H4)| H4 | H5 |
 |Large (H3)| H3 | H5 |
 |Extra Large (H2) | H2 | H4 |

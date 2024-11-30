@@ -2,11 +2,14 @@
 title: Typography
 # description: A reference page in my new Starlight docs site.
 ---
-The web implementation of a typography must follow the same principles as those used in the design process and aims to establish the visual hierarchy.
+The web implementation of a given typography must follow the same principles as those used in the design process that aims to establish the visual hierarchy.
 
 ## Font Size
 
+:::tip[Starting a project]
 In the design process, one starts from choosing a basic size and then chooses a multiplier to generate the entire hierarchy of fonts (eg: https://www.typescale.com). These two options are found in `Content/Swift Tools/Branding`
+:::
+
 
 | Field      | Type | Unit | Description | Default Value | 
 |-|-|-|-|-|
@@ -46,7 +49,11 @@ For mobile(<1200px), the multiplier is **1.125 - Major Second**
 ```
 
 ## Font style
-There are 4 configurable zones for font styling.
+
+:::tip[Starting a project]
+To properly brand a website, there are 4 font style areas that needs to be configured at the start of the project: Eyebrow, Headings, Subheadings, Body & Links
+:::
+
 
 ### Eyebrow
 | Field | Type | Unit | Description | Default Value | 
@@ -119,7 +126,7 @@ There are 4 configurable zones for font styling.
 |Body Letter Spacing|Input|decimal | Se alege spatierea dintre litere in rem| 0
 |Body Font Size|Input|decimal| Se alege dimensiunea in rem | 1
 
-:::note
+:::tip
 Font sizes for **lead** and **small** are defined based on the body font size
 :::
 

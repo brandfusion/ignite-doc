@@ -1,11 +1,11 @@
 ---
-title: Branding
+title: Buttons and Links
 # description: A reference page in my new Starlight docs site.
 ---
 
-# Buttons
+## Buttons
 
-## Primary Button
+### Primary Button
 | Field      | Type | Unit | Description | Default Value | 
 |-|-|-|-|-|
 | Primary Button Font Size | Input | decimal | Font size in rem| 1
@@ -32,7 +32,7 @@ title: Branding
 }
 ```
 
-## Secondary Button
+### Secondary Button
 | Field      | Type | Unit | Description | Default Value | 
 |-|-|-|-|-|
 | Secondary Button Font Size | Input | decimal | Font size in rem| 1
@@ -59,7 +59,7 @@ title: Branding
 }
 ```
 
-## Link Button
+### Link Button
 | Field      | Type | Unit | Description | Default Value | 
 |-|-|-|-|-|
 | Link Button Font Size | Input | decimal | Font size in rem| 1

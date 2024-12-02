@@ -9,3 +9,4 @@ Ignite was created to stay close to the latest modern design principles and impl
 2. [Buttons & Links](/branding/)
 3. [Themes](/themes/)
 4. [Content Hierarchy](/content-hierarchy)
+5. [Content Extra Options](/content-options)

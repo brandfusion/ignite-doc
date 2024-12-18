@@ -221,6 +221,7 @@ This are the tokens that will be generated for the __Default__ value.
 ```css
 :root {
   --ignite-spacing-base: 0.5rem;
+  --ignite-content-spacing-multiplier: 1;
   --ignite-spacing-1: calc(var(--ignite-content-spacing-multiplier)* var(--ignite-spacing-base));
 }
 ```

@@ -47,6 +47,11 @@ export default defineConfig({
 					label:'Optimization',
 					autogenerate: { directory: 'optimization' },
 					
+				},
+				{
+					label:'Update Ignite',
+					autogenerate: { directory: 'update' },
+					
 				}
 			],
 		}),

@@ -22,12 +22,12 @@ Content features are pre-configured pairs of [Item Types](https://doc.dynamicweb
 ### Content Elements
 **Rows**
 - [Section](/ignite/content/section)
-- [[Section Carousel]]
-- [[Hero Slider]]
+- [Section Carousel](/ignite/content/section-carousel )
+- [Hero Slider](/ignite/content/hero-slider)
 
 **Paragraphs**
-- [[Content Paragraph]]
-- [[Content Banner]]
+- [Content Paragraph](/ignite/content/content-paragraph)
+- [Content Banner](/ignite/content/content-banner)
 - [[Content Feature]]
 - [[Content Media]]
 - [[Component Row]]

@@ -1,6 +1,6 @@
 ---
 title: Section Carousel
-description: A guide to implementing the Section Carousel element
+description: A guide to implementing the Ignite Section Carousel element
 
 badge:
   text: Ecommerce

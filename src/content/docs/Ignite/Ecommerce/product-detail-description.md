@@ -17,5 +17,5 @@ The Product Detail Description component is designed to display detailed informa
 - Make sure to create and assign the appropriate content pages matching the naming convention values to ensure the descriptions are displayed correctly.
 
 :::note
-Check the [developer gists](/ignite/developer-gists/developer-ecommerce-gists#how-to-access-a-page-by-using-the-product-number) for more information on how to access a page by using the product number.
+Check the [developer gists](/developer-shortcuts/developer-ecommerce-gists/developer-ecommerce-gists#how-to-access-a-page-by-using-the-product-number) for more information on how to access a page by using the product number.
 :::

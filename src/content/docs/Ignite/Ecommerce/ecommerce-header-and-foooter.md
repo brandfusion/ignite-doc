@@ -14,5 +14,5 @@ The Ecommerce Group Header and Footer component adds a unique header and footer 
 - The header and footer are displayed on the product list page associated with the group.
 
 :::note
-Check the [developer gists](/ignite/developer-gists/developer-ecommerce-gists#how-to-access-group-fields-from-a-product-list-page) for more information on how to access group fields from a product list page.
+Check the [developer gists](/developer-shortcuts/developer-ecommerce-gists/developer-ecommerce-gists#how-to-access-group-fields-from-a-product-list-page) for more information on how to access group fields from a product list page.
 :::

@@ -28,16 +28,16 @@ Content features are pre-configured pairs of [Item Types](https://doc.dynamicweb
 **Paragraphs**
 - [Content Paragraph](/ignite/content/content-paragraph)
 - [Content Banner](/ignite/content/content-banner)
-- [[Content Feature]]
+- [Content Feature](/ignite/content/content-feature)
 - [[Content Media]]
-- [[Component Row]]
+- [Component Row](/ignite/ecommerce/component-row)
 - [[Newsletter Module]]
-
 
 ### Ecommerce Elements
 1. Service Page
 2. Product Carousel
-3. Ecommerce Group Header
-4. Ecommerce Group Footer
+3. [Ecommerce Group Header](/ignite/ecommerce/ecommerce-group-header-and-footer)
+4. [Ecommerce Group Footer](/ignite/ecommerce/ecommerce-group-header-and-footer)
 5. Mega Menu
 6. Navigation Hero
+7. [Product Detail Description](/ignite/ecommerce/product-detail-description)

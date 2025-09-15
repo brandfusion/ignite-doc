@@ -21,12 +21,12 @@ The Ignite Content Banner component is designed to display a prominent banner ar
 - **Stretch Link:** When enabled, makes the entire component clickable (True/False).
 
 ### Content Settings
-- **Heading Tag:** Sets the semantic HTML tag for the heading, from H2 to H6. This is important for SEO.
-- **Heading Size:** Controls the visual size of the heading. Options range from H1 to H6 and include larger, custom styles like Hero1, Hero2, and Hero3.
-- **Horizontal Alignment:** Aligns the content to the Left, Center, or Right.
-- **Content Size:** Adjusts the font size to Small, Default (Root), or Large.
-- **Layout:** Defines the position of the content relative to the banner. Options include Top-Left, Center, Bottom-Right, and others.
-- **Add Backdrop:** A boolean toggle to enable or disable a content backdrop (True/False).
+- **Heading Tag:** Sets the semantic HTML tag for the heading, from **H2** to **H6**. This is important for SEO.
+- **Heading Size:** Controls the visual size of the heading. Options range from **H1** to **H6** and include larger, custom styles like **Hero1**, **Hero2**, and **Hero3**.
+- **Horizontal Alignment:** Aligns the content to the **Left**, **Center**, or **Right**.
+- **Content Size:** Adjusts the font size to **Small**, **Default** (Root), or **Large**.
+- **Layout:** Defines the position of the content relative to the banner. Options include **Top-Left**, **Center**, **Bottom-Right**, and others.
+- **Add Backdrop:** A boolean toggle to enable or disable a content backdrop (**True/False**).
 
 ### Content Backdrop (Visible when Add Backdrop is True)
   - **Content Backdrop:** Sets the color of the backdrop. The default is White.

@@ -1,6 +1,5 @@
 ## Project Overview
-
 This repository contains documentation on how to use Ignite elements in a Dynamicweb project. It provides information on configuring, customizing, and utilizing Ignite components effectively.
 
 ## Project Structure
-The documentation is organized in Markdown files located in the `src/content/docs/` directory. Each file corresponds to a specific topic or component related to Ignite elements.
+The documentation is organized in Markdown `.md` files located in the `src/content/docs/` directory. Each file corresponds to a specific topic or component related to Ignite elements.

@@ -10,9 +10,9 @@ badge:
 The Hero Slider is a specialized version of the Section component, built specifically to display prominent, top-of-page content. It leverages native HTML5 semantic tags to ensure content is SEO-friendly, improving its indexing and description.
 
 ## Main Features
-- Column Layouts: Offers flexible column arrangements for content within each slide.
-- Fast, Native Slider: Uses a CSS-only slider for mobile and a minimal JavaScript footprint, ensuring quick performance.
-- Theming: Fully compatible with Swift2 theming for seamless integration.
+- **Column Layouts**: Offers flexible column arrangements for content within each slide.
+- **Fast, Native Slider**: Uses a CSS-only slider for mobile and a minimal JavaScript footprint, ensuring quick performance.
+- **Theming**: Fully compatible with Swift2 theming for seamless integration.
 
 ## Use Cases
 - Use this component to contain other Ignite content items (such as Content Paragraphs or Content Banners) when they need to be presented as a swipeable or scrollable slider.
@@ -29,7 +29,7 @@ Spacing options are based on [Bootstrap 5 Sizing](https://getbootstrap.com/docs/
 
 ### General
 - **Title:** The title for the Hero Slider.
-- **Slides:** Sets the number of slides, ranging from 2 to 6.
+- **Slides:** Sets the number of slides, ranging from **2** to **6**.
 - **Slider Layout:** Defines the orientation of the slides (Horizontal). Other options for Vertical and Stacked presentations are currently a work in progress.
 
 ### Slider Settings

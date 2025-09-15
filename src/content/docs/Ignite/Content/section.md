@@ -3,7 +3,7 @@ title: Section
 description: A guide to implementing the Ignite Section element
 
 badge:
-  text: Ecommerce
+  text: Content
   variant: tip
 ---
 

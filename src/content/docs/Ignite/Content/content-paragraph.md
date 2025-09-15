@@ -21,8 +21,8 @@ The Content Paragraph component is designed to display body text on your page. I
 
 ### Content Settings
 
-- **Heading Tag**: Sets the semantic HTML tag for the heading, ranging from H2 to H6.
-- **Heading Size**: Controls the visual size of the heading text, using H2 to H6 styles.
+- **Heading Tag**: Sets the semantic HTML tag for the heading, ranging from **H2** to **H6**.
+- **Heading Size**: Controls the visual size of the heading text, using **H2** to **H6** styles.
 - **Horizontal Alignment**: Aligns the text to the **Left**, **Center**, or **Right**.
 - **Content Size**: Adjusts the font size of the content block to **Small**, **Default** (Root), or **Large**.
 - **Gap**: Sets the spacing (gutter) between content elements. Options include **None**, **Small**, **Default**, **Large**, and **X-Large**. This is only for landscape layouts.
